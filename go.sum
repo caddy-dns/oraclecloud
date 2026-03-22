@@ -1,7 +1,7 @@
 code.pfad.fr/check v1.1.0 h1:GWvjdzhSEgHvEHe2uJujDcpmZoySKuHQNrZMfzfO0bE=
 code.pfad.fr/check v1.1.0/go.mod h1:NiUH13DtYsb7xp5wll0U4SXx7KhXQVCtRgdC96IPfoM=
-github.com/Djelibeybi/libdns-oraclecloud v1.1.0 h1:w9YOD4aFU6hF8n9EuVBdGRKCYlEkqUgEgiH6iwGhWm8=
-github.com/Djelibeybi/libdns-oraclecloud v1.1.0/go.mod h1:rZXczJUZW6zdLXqpC4f560cERSb1zd99Yd7v/QaDHEk=
+github.com/Djelibeybi/libdns-oraclecloud v1.1.1 h1:fcDuiRg1/POAq41CIBCHZalyT+Xs4rSdU1JgH15cOds=
+github.com/Djelibeybi/libdns-oraclecloud v1.1.1/go.mod h1:m020cCTEvEpYTgGdRO4t5wlMg5MWt/C7U0PzADK8eUI=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
 github.com/caddyserver/caddy/v2 v2.11.2 h1:iOlpsSiSKqEW+SIXrcZsZ/NO74SzB/ycqqvAIEfIm64=
