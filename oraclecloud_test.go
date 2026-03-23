@@ -3,7 +3,7 @@ package oraclecloud
 import (
 	"testing"
 
-	libdnsoraclecloud "github.com/Djelibeybi/libdns-oraclecloud"
+	libdnsoraclecloud "github.com/libdns/oraclecloud"
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
 )
