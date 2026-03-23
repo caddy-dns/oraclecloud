@@ -3,8 +3,8 @@ module github.com/Djelibeybi/caddy-dns-oraclecloud
 go 1.25.0
 
 require (
-	github.com/Djelibeybi/libdns-oraclecloud v1.1.1
 	github.com/caddyserver/caddy/v2 v2.11.2
+	github.com/libdns/oraclecloud v1.1.2
 )
 
 require (
