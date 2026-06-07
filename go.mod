@@ -1,4 +1,4 @@
-module github.com/Djelibeybi/caddy-dns-oraclecloud
+module github.com/caddy-dns/oraclecloud
 
 go 1.25.0
 
