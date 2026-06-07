@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/caddy-dns/oraclecloud/compare/v1.0.0...v1.0.1) (2026-06-07)
+
+
+### Bug Fixes
+
+* switch module to correct GitHub path ([#4](https://github.com/caddy-dns/oraclecloud/issues/4)) ([1659134](https://github.com/caddy-dns/oraclecloud/commit/16591349581bc3b3658fe553368a0c19de171ba4))
+
 ## 1.0.0 (2026-03-23)
 
 
